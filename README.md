@@ -1,6 +1,7 @@
 # Numerical-Differential-Equations-Mathematica
 
 Some numerical methods for differential equations (finite difference for ODE and PDE) implemented in Mathematica. 
+More information can be found at the [corresponding course](https://www.nice-math.com/nm-for-differential-equations-1).
 
 # Side notes
 I am proud of coming up with the matrix form of RK45 in multidimensional problems (in ODERocket).
